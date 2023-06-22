@@ -1,7 +1,7 @@
 # Instructions
+This is a team project intended for the course Robotics, 2023 Spring, Leiden University. 
 Team: &lt; Pi team &gt; \
 Siwen Tu, Lin He , Ruilin Ma, Chenyu Shi, Shupei Li\
-Robotics, 2023 Spring, Leiden University
 
 ### Gesture control
 #### Hardware environment
