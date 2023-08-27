@@ -1,7 +1,4 @@
 # Instructions
-This is a team project intended for the course Robotics, 2023 Spring, Leiden University.  \
-Team: &lt; Pi team &gt; : Siwen Tu, Lin He, Ruilin Ma, Chenyu Shi, Shupei Li
-
 ### Gesture control
 #### Hardware environment
 - Picar-4wd + RPi Camera v3 (wide)
