@@ -1,4 +1,5 @@
 # Instructions
+The project involves two functional parts that can work individually.
 ### Gesture control
 #### Hardware environment
 - Picar-4wd + RPi Camera v3 (wide)
